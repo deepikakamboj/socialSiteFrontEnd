@@ -1,7 +1,6 @@
 {
   "name": "socialSiteFrontend",
   "version": "1.0.0",
-  "description": "1. Bower init - creates bower.json for dependency management 2. Include angular dependency 3. Bower install 4.",
   "main": "index.js",
   "dependencies": {
     "grunt-init": "^0.3.2",
@@ -10,6 +9,7 @@
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-contrib-coffee": "*",
-    "grunt-contrib-jade": "^1.0.0"
+    "grunt-contrib-jade": "^1.0.0",
+    "http-server": "^0.9.0"
   }
 }
