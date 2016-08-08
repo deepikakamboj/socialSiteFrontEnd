@@ -1,0 +1,19 @@
+{
+  "name": "socialSiteFrontend",
+  "version": "0.0.0",
+  "authors": [
+    "deepikakamboj <deepikak@thoughtworks.com>"
+  ],
+  "description": "social site",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.2.18"
+  }
+}
