@@ -5,3 +5,4 @@
 5. npm install - to install dependencies in package.json
 6. npm install grunt --save-dev - to install and add grunt as a dependency in package.json
 7. create Gruntfile with basic tasks
+8. To run the app - node server.js or npm start
